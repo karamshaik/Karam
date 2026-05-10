@@ -1,0 +1,6 @@
+{
+  "name": "Chotu - Your Multi-Talented AI Companion",
+  "description": "Chotu is a friendly AI friend that assists with study, astrology, health, and accessibility. Includes voice interaction, image creation, and a vision-assist 'call' mode to guide the blind.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI Chat", "Voice Interaction", "Vision Assist", "Image Generation"]
+}
